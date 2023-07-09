@@ -1,7 +1,7 @@
 package com.ilham.ecommerce.controller;
 
 import com.ilham.ecommerce.entity.Keranjang;
-import com.ilham.ecommerce.model.KeranjangRequest;
+import com.ilham.ecommerce.model.request.KeranjangRequest;
 import com.ilham.ecommerce.security.service.UserDetailsImpl;
 import com.ilham.ecommerce.service.KeranjangService;
 import org.springframework.beans.factory.annotation.Autowired;

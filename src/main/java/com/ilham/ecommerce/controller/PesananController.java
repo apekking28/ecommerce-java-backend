@@ -1,8 +1,8 @@
 package com.ilham.ecommerce.controller;
 
 import com.ilham.ecommerce.entity.Pesanan;
-import com.ilham.ecommerce.model.PesananRequest;
-import com.ilham.ecommerce.model.PesananResponse;
+import com.ilham.ecommerce.model.request.PesananRequest;
+import com.ilham.ecommerce.model.response.PesananResponse;
 import com.ilham.ecommerce.security.service.UserDetailsImpl;
 import com.ilham.ecommerce.service.PesananService;
 import org.springframework.beans.factory.annotation.Autowired;

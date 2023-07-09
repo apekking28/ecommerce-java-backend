@@ -1,9 +1,9 @@
 package com.ilham.ecommerce.controller;
 
-import com.ilham.ecommerce.model.JwtResponse;
+import com.ilham.ecommerce.model.response.JwtResponse;
 import com.ilham.ecommerce.entity.Pengguna;
-import com.ilham.ecommerce.model.LoginRequest;
-import com.ilham.ecommerce.model.SignUpRequest;
+import com.ilham.ecommerce.model.request.LoginRequest;
+import com.ilham.ecommerce.model.request.SignUpRequest;
 import com.ilham.ecommerce.security.jwt.JwtUtils;
 import com.ilham.ecommerce.security.service.UserDetailsImpl;
 import com.ilham.ecommerce.security.service.UserDetailsServiceImpl;

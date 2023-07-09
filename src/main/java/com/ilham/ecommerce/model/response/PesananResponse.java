@@ -1,4 +1,4 @@
-package com.ilham.ecommerce.model;
+package com.ilham.ecommerce.model.response;
 
 import com.ilham.ecommerce.entity.Pesanan;
 import com.ilham.ecommerce.entity.PesananItem;

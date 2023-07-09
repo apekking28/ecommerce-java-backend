@@ -1,4 +1,4 @@
-package com.ilham.ecommerce.model;
+package com.ilham.ecommerce.model.request;
 
 import java.io.Serializable;
 

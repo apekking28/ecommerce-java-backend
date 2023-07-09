@@ -1,5 +1,6 @@
-package com.ilham.ecommerce.model;
+package com.ilham.ecommerce.model.request;
 
+import com.ilham.ecommerce.model.request.KeranjangRequest;
 import lombok.Data;
 
 import java.io.Serializable;
