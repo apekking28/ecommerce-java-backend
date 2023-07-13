@@ -94,6 +94,8 @@ This dependency is the JSON Web Token (JWT) library for Java. JWT is used to sec
 - PATCH  `http://localhost:8080/api/pesanans/{pesananId}/kirim` -> send order
 - PATCH `http://localhost:8080/api/pesanans/{pesananId}/packing` -> message packaging
 
+for more complete API documentation can be seen at the url : `http://localhost:8080/swagger-ui/index.html`
+
 
 ## Build In With
 - Spring boot
